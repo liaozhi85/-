@@ -16,7 +16,7 @@
 
 @end
 /*
- ImageView 的ainimationImage属性实现序列化动画。
+ ImageView 的ainimationImage属性实现序列化动画
  */
 @implementation ViewController
 - (void)runAnimation:(int)number fileName:(NSString *)name {
